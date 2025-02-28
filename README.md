@@ -24,7 +24,7 @@ python password_checker_gui.py
 📜 **License:** MIT License  
 
 ⭐ If you find this useful, **star the repository** on GitHub! 🚀  
-🔗 **Repo:** [GitHub](https://github.com/JoyalSanth/Password-Strength-Checker)  
+🔗 **Repo:** [GitHub](https://github.com/asAkhilesh/Password-complexity)  
 
 ---
 
