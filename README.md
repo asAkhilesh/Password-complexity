@@ -27,5 +27,4 @@ python password_checker_gui.py
 🔗 **Repo:** [GitHub](https://github.com/asAkhilesh/Password-complexity)  
 
 ---
-
-Would you like any tweaks to the tone or style? 😊
+happy coding
