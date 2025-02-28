@@ -12,7 +12,7 @@ a **Python GUI application** that evaluates the strength of your password in rea
 1️⃣ **Install Python** from [python.org](https://www.python.org/)  
 2️⃣ **Clone the Repository:**  
 ```bash
-git clone https://github.com//Password-Strength-Checker.git
+git clone https://github.com/asAkhilesh/Password-complexity.git
 cd Password-Strength-Checker/src
 ```  
 3️⃣ **Run the Program:**  
