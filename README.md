@@ -13,7 +13,7 @@ a **Python GUI application** that evaluates the strength of your password in rea
 2️⃣ **Clone the Repository:**  
 ```bash
 git clone https://github.com/asAkhilesh/Password-complexity.git
-cd Password-Strength-Checker/src
+cd password-complexity
 ```  
 3️⃣ **Run the Program:**  
 ```bash
